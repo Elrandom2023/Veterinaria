@@ -7,3 +7,10 @@
 
 ## Acerca del programador
 Autor: Luis villegas
+Mi carrera es: **Ingenieria de Software con IA**
+Puedes escribir a mi corrreo: *elramdom@senati.pe*
+
+## Otras tecnologias:
+- JAVA
+- PHP
+- SQL
